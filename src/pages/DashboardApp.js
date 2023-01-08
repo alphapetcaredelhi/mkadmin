@@ -91,10 +91,10 @@ export default function DashboardApp() {
             <AppCurrentVisits
               title="Roblox Time Spent"
               chartData={[
-                { label: 'Atharva', value: 3.5 },
-                { label: 'Aditi', value: 2 },
-                { label: 'Lalit', value: 0 },
-                { label: 'Sonam', value: 1 },
+                { label: 'Atharva bogo', value: 3.5 },
+                { label: 'Aditi pico', value: 3 },
+                { label: 'Lalit toko', value: 5 },
+                { label: 'Sonam appo', value: 1.5 },
               ]}
               chartColors={[
                 theme.palette.primary.main,
