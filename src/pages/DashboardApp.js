@@ -89,12 +89,12 @@ export default function DashboardApp() {
 
           <Grid item xs={12} md={6} lg={4}>
             <AppCurrentVisits
-              title="Current Visits"
+              title="Roblox Time Spent"
               chartData={[
-                { label: 'America', value: 4344 },
-                { label: 'Asia', value: 5435 },
-                { label: 'Europe', value: 1443 },
-                { label: 'Africa', value: 4443 },
+                { label: 'Atharva', value: 3.5 },
+                { label: 'Aditi', value: 2 },
+                { label: 'Lalit', value: 0 },
+                { label: 'Sonam', value: 1 },
               ]}
               chartColors={[
                 theme.palette.primary.main,
